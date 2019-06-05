@@ -1,0 +1,46 @@
+geoff@linux-n9j9 ~/work  17:05:56  
+$ rsync  -arv  /home/geoff/Desktop/fav1/         root@192.168.0.6:/home/shirley/Desktop/fav1/   
+Password: 
+sending incremental file list
+./
+Fraser-Anning-73x96.png
+RSLRewards--92x65.png
+add-these.txt
+fav1.htm
+fav1.htm~
+home--174x174.png
+hours.png
+jaycar-data.png
+menu.htm
+mstrans--121x74.png
+newswars--279x38.png
+parkdale-dentist-door-20171128s.jpg
+www.truthorfiction.com.png
+blogs/
+blogs/Opera Snapshot_2019-01-28_201701_pickeringpost.com.png
+blogs/blogs.htm
+blogs/blogs.htm~
+blogs/blogs1.htm
+hk/
+images/
+japanese/
+japanese/japanese.htm
+japanese/japanese.htm~
+medical/
+medical/Ophthalmology Dr Christopher Chesney 41 Como Parade E 3194 Mentone (03) 9584 2911.png
+medical/medical.htm
+medical/medical.htm~
+news/
+news/gab--51x30.png
+news/news.htm
+news/news.htm~
+taiwan/
+taiwan/taiwan.htm
+taiwan/taiwan.htm~
+tele/
+
+sent 1,332,995 bytes  received 1,116 bytes  127,058.19 bytes/sec
+total size is 7,468,459  speedup is 5.60
+geoff@linux-n9j9 ~/work  17:06:29  
+$ 
+

@@ -1,0 +1,13 @@
+A:hover {
+	COLOR: #002211; BACKGROUND-COLOR: #bbff54; TEXT-DECORATION: none
+}
+P {
+        font-family: 'Signika', sans-serif;
+        font-size: 48px;
+}
+A:link {
+	COLOR: #005599; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; TEXT-DECORATION: none; BORDER-BOTTOM-STYLE: none
+}
+A:visited {
+	COLOR: #905439; TEXT-DECORATION: none
+}
